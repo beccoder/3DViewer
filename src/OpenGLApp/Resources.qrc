@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/pass_through.vert</file>
+        <file>shaders/simple.frag</file>
+        <file>textures/wall.jpeg</file>
+        <file>textures/container.jpeg</file>
+        <file>textures/awesomeface.png</file>
+    </qresource>
+</RCC>
